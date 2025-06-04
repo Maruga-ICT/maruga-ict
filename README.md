@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋  
+Kindly view my main repository at https://github.com/ronymaruga
 
 <!--
 **Maruga-ICT/maruga-ict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
